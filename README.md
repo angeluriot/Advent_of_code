@@ -29,7 +29,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 To run the solutions, you need to have Python installed on your machine. If you don't have it, you can download it [here](https://www.python.org/downloads/). Then, you can use the following command to run the solutions:
 
 ```console
-python ./2024/01/solution.py
+python 2024/01/solution.py
 ```
 
 <br/>
