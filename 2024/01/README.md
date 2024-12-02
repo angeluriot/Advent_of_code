@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-	<img src="illustration.png" width="500">
+	<img src="illustration.png" height="500">
 </p>
 
 <br/>
