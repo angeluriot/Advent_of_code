@@ -20,15 +20,15 @@ with open('2024/04/output_1.txt', 'w') as f:
 
 # Part 2
 
-dir_to_idx = {-1: np.flip(np.arange(3, dtype=int)), 1: np.arange(3, dtype=int)}
+dir_to_idx = {-1: np.flip(np.arange(3, dtype=int)) - 1, 1: np.arange(3, dtype=int) - 1}
 directions_1 = [(1, 1), (-1, -1)]
 directions_2 = [(1, -1), (-1, 1)]
 indices_1 = [(dir_to_idx[x], dir_to_idx[y]) for x, y in directions_1]
 indices_2 = [(dir_to_idx[x], dir_to_idx[y]) for x, y in directions_2]
 nb = 0
 
-for x in range(grid.shape[0] - 2):
-	for y in range(grid.shape[1] - 2):
+for x in range(1, grid.shape[0] - 1):
+	for y in range(1, grid.shape[1] - 1):
 		if all(any(''.join(grid[(x + xs).tolist(), (y + ys).tolist()]) == 'MAS' for xs, ys in indices) for indices in [indices_1, indices_2]):
 			nb += 1
 
