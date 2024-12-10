@@ -55,7 +55,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/01/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/01"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">2</th>
@@ -68,7 +68,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/02/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/02"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">3</th>
@@ -81,7 +81,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/03/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/03"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">4</th>
@@ -94,7 +94,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/04/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/04"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">5</th>
@@ -107,7 +107,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/05/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/05"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">6</th>
@@ -120,7 +120,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/06/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/06"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">7</th>
@@ -133,7 +133,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/07/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/07"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">8</th>
@@ -146,7 +146,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/08/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/08"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">9</th>
@@ -159,7 +159,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/09/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/09"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">10</th>
@@ -172,7 +172,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
 			<td style="text-align:center"></td>
-			<td style="text-align:center"><a href="2024/10/solution.p"><b>✱ ✱</b></a></td>
+			<td style="text-align:center"><a href="2024/10"><b>✱ ✱</b></a></td>
 		</tr>
 		<tr>
 			<th style="text-align:center">11</th>
@@ -379,7 +379,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 To run the solutions, you need to have Python installed on your machine. If you don't have it, you can download it [here](https://www.python.org/downloads/). Then, you can use the following command to run the solutions:
 
 ```console
-python 2024/01/solution.py
+python 2024/01y
 ```
 
 <br/>
