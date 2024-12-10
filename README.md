@@ -19,7 +19,7 @@ This repository contains the solutions of the [**Advent of Code**](https://adven
 # 📋 Summary
 
 * **[📋 Summary](#-summary)**
-* **[🗂️ Available solutions](#-available-solution)**
+* **[🗂️ Available solutions](#%EF%B8%8F-available-solutions)**
 * **[🚀 Run the solutions](#-run-the-solutions)**
 * **[🙏 Credits](#-credits)**
 
