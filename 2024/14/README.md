@@ -1,5 +1,15 @@
 # Day 14: Restroom Redoubt
 
+<br/>
+
+<p align="center">
+	<img src="illustration.png" height="500">
+</p>
+
+<br/>
+
+## Part One
+
 One of The Historians needs to use the bathroom; fortunately, you know there's a bathroom near an unvisited location on their list, and so you're all quickly teleported directly to the lobby of Easter Bunny Headquarters.
 
 Unfortunately, EBHQ seems to have "improved" bathroom security **again** after your last [visit](https://adventofcode.com/2016/day/2). The area outside the bathroom is swarming with robots!
@@ -123,3 +133,11 @@ To determine the safest area, count the **number of robots in each quadrant** af
 In this example, the quadrants contain `1`, `3`, `4`, and `1` robot. Multiplying these together gives a total **safety factor** of `12`.
 
 Predict the motion of the robots in your list within a space which is 101 tiles wide and 103 tiles tall. **What will the safety factor be after exactly 100 seconds have elapsed?**
+
+<br/>
+
+## Part Two
+
+During the bathroom break, someone notices that these robots seem awfully similar to ones built and used at the North Pole. If they're the same type of robots, they should have a hard-coded Easter egg: very rarely, most of the robots should arrange themselves into **a picture of a Christmas tree**.
+
+**What is the fewest number of seconds that must elapse for the robots to display the Easter egg?**
